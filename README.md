@@ -1,5 +1,5 @@
 # WorldEdit Companion
-A Minecraft Bedrock Edition behaviour pack to extend the functionality of [Cloudburst WorldEdit](https://github.com/CloudburstMC/WorldEdit).
+A Minecraft Bedrock Edition behaviour pack to extend the functionality of [Cloudburst WorldEdit](https://github.com/CloudburstMC/WorldEdit) using the Scripting API.
 
 ## Compiling
 Firstly, start off by installing the dependencies:
