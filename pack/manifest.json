@@ -1,0 +1,30 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Provides additional functionality for the Cloudburst WorldEdit plugin",
+        "name": "WorldEdit Companion",
+        "uuid": "84eae42e-2df2-43b8-93f2-0de4c437326c",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            210
+        ]
+    },
+    "modules": [
+        {
+            "description": "WorldEdit Companion",
+            "type": "client_data",
+            "uuid": "77162765-cd7b-4465-bef8-ac8800461f8c",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "worldedit-companion",
+  "version": "1.0.0",
+  "description": "Cloudburst WorldEdit client script companion",
+  "main": "index.ts",
+  "scripts": {
+    "compile": "tsc -p . --outDir build",
+    "pack": "tsc -p . --outDir build && node generate_mcpack.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opencollab-incubator/worldedit-companion.git"
+  },
+  "keywords": [
+    "minecraft"
+  ],
+  "author": "Luke",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/opencollab-incubator/worldedit-companion/issues"
+  },
+  "homepage": "https://github.com/opencollab-incubator/worldedit-companion#readme",
+  "devDependencies": {
+    "archiver": "^5.3.0",
+    "minecraft-scripting-types-client": "^1.0.0",
+    "minecraft-scripting-types-server": "^1.0.0",
+    "typescript": "^4.2.3"
+  }
+}
